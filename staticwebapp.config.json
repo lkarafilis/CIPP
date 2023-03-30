@@ -107,11 +107,5 @@
   },
   "mimeTypes": {
     ".json": "text/json"
-  },
-  "networking": {
-    "allowedIpRanges": [
-      "62.169.231.203/32",      
-      "62.38.140.213/32"
-    ]
   }
 }
